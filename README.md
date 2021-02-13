@@ -24,4 +24,7 @@ npm run build
 npm install -g @vue/cli
 vue create examen2rafael
 ```
-
+ ### Addiction de route
+ ```
+ vue add router
+ ```
