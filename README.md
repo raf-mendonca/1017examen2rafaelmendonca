@@ -25,5 +25,3 @@ npm install -g @vue/cli
 vue create examen2rafael
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
