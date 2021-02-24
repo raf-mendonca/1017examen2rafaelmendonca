@@ -14,8 +14,9 @@ import { mixinTraducteur } from "./mixins/mixinTraducteur.js";
 export default {
   mixins: [mixinTraducteur],
   name: 'App',
+  message: 'Hello Vue js',
   components: { Header , Footer},
-  data(){
+  data() {
     return {
     }
   }
